@@ -11,6 +11,11 @@ export default {
 
     theme: {
         extend: {
+            screens: {
+                "8xl": "88rem",
+                "9xl": "96rem",
+                "10xl": "104rem",
+            },
             fontFamily: {
                 sans: ['"DM Sans"', ...defaultTheme.fontFamily.sans],
                 inter: ["Inter", ...defaultTheme.fontFamily.sans],
