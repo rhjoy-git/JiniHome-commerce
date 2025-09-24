@@ -1,4 +1,4 @@
-<div class="max-w-[1152px] w-full fixed top-9 left-1/2 -translate-x-1/2 z-50">
+<div class="max-w-7xl w-full fixed top-9 left-1/2 -translate-x-1/2 z-50">
     <nav class="flex items-center justify-between bg-gray-900/30 backdrop-blur-lg 
                 border border-white/10 px-2.5 py-2.5 rounded-full shadow-lg transition-all duration-300">
 

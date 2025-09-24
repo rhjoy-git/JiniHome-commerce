@@ -32,8 +32,8 @@
     @stack('styles')
 </head>
 
-<body class="font-sans antialiased bg-white">
-    <div class="min-h-screen bg-white dark:bg-gray-900 max-w-[1440px]">
+<body class="font-sans antialiased bg-white dark:bg-black">
+    <div class="min-h-screen mx-auto max-w-8xl bg-white dark:bg-black">
         <x-navbar :menus="$menus" />
         @yield('content')
         @include('partials.footer')

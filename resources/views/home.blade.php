@@ -5,7 +5,7 @@
 <section
     class="relative w-full min-h-screen flex flex-col items-center justify-center text-center overflow-hidden bg-gradient-to-r from-[#530402] from-10% via-[#0E0402] via-30% to-[#0E0402] to-90%">
     <!-- Content Container -->
-    <div class="relative z-10 max-w-6xl mt-16 py-24 bg-transparent">
+    <div class="relative z-10 max-w-7xl mt-16 py-24 bg-transparent">
         <div class="relative inline-block">
             <div class="absolute inset-0 z-0 select-none pointer-events-none blur-xl opacity-50 
         bg-gradient-to-r from-[#E5B8A7] via-[#FFECCD] to-[#FF6834] 
@@ -52,4 +52,5 @@
     </div>
 </section>
 @include('partials.categories')
+@include('partials.smart-section')
 @endsection
