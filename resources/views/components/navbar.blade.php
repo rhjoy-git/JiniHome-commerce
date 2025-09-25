@@ -5,7 +5,7 @@
         <!-- Logo -->
         <div class="flex items-center space-x-2 ml-6">
             <x-icons.logo class="w-6 h-6 text-white"/>
-            <span class="font-bold text-white text-xl">jinihome</span>
+            <span class="font-bold text-white text-2xl">jinihome</span>
         </div>
 
         <!-- Menu -->
@@ -38,7 +38,6 @@
             <button aria-label="Cart" class="hover:text-orange-400 transition">
                 <x-icons.cart class="w-6 h-6 text-white"/>
             </button>
-
             <!-- Shop Now Button -->
             <a href="/shop"
                 class="relative overflow-hidden bg-[#FC5F2B] px-4 py-2 rounded-full font-normal text-white text-sm group">
